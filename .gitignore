@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+bank-full.csv
+main.ipynb
+Bank_Marketing_Integrated_Colab (1).ipynb
